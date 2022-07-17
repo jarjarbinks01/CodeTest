@@ -1,5 +1,5 @@
 {
-  "name": "interview-templates",
+  "name": "CodeTest",
   "version": "1.0.0",
   "description": "This repository provides a set of hello world applications for various programming languages. Please clone the repository and check out the branch for the programming language you want to use. Make sure you can successfully run the test.",
   "main": "index.js",
@@ -8,14 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zuhlkehk/interview-templates.git"
+    "url": "git+https://github.com/jarjarbinks01/CodeTest.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zuhlkehk/interview-templates/issues"
+    "url": "https://github.com/jarjarbinks01/CodeTest/issues"
   },
-  "homepage": "https://github.com/zuhlkehk/interview-templates#readme",
   "dependencies": {
     "mocha": "^8.1.3"
   }
